@@ -67,7 +67,8 @@ independently reviewable and updatable (NFR-007).
 
 ### 2.2 references/ — planning and safety rules
 
-- `coaching-principles.md` — done ([docs/references/coaching-principles.md](references/coaching-principles.md)).
+- `coaching-principles.md` — done
+  ([.claude/skills/marathon-readiness-coach/references/coaching-principles.md](../.claude/skills/marathon-readiness-coach/references/coaching-principles.md)).
 - `mobility-guidance.md`, `strength-guidance.md` — not yet written; should follow the same evidence-graded
   pattern once drafted.
 - `safety-rules.md` — the operational form of SR-001–SR-007: exact trigger conditions and escalation language,

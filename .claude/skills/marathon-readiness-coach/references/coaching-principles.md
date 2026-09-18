@@ -2,7 +2,7 @@
 
 This file gives the coaching skill a set of evidence-backed rules to draw on when writing or adjusting a
 plan (initial plan generation, weekly plans, replanning, weekly review, readiness assessment). Each rule below
-is paired with the finding behind it and the [feature](../features.md) it's most relevant to, so a rule can be
+is paired with the finding behind it and the [feature](../../../../docs/features.md) it's most relevant to, so a rule can be
 traced back to its evidence and updated if the evidence changes.
 
 This is a starting synthesis, not a finished, expert-validated ruleset — see **Status and caveats** below
@@ -19,7 +19,7 @@ Synthesized from [running-knowledge-base](https://github.com/jacquescorbytuech/r
 has the full reference for each.
 
 Deliberately excluded regardless of grade, per this app's scope:
-- Nutrition/fuelling/supplement content (out of scope — see [features.md](../features.md) "Won't Have").
+- Nutrition/fuelling/supplement content (out of scope — see [features.md](../../../../docs/features.md) "Won't Have").
 - Per-injury diagnosis, rehab, or treatment protocols (out of scope — SR-003 prohibits prescribing rehab). Only
   general overuse-pattern recognition and when-to-refer-out guidance is included.
 - Gear reviews, coach biographies, and non-marathon race distances.
@@ -28,7 +28,7 @@ Deliberately excluded regardless of grade, per this app's scope:
 
 - This is informational grounding for the coaching skill's rules, not a substitute for review by someone with
   actual exercise-science or coaching credentials — see Open Design Decision #8 in
-  [requirements.md](../requirements.md). Treat it as a first draft to be checked, not a finished spec.
+  [requirements.md](../../../../docs/requirements.md). Treat it as a first draft to be checked, not a finished spec.
   - Anyone reviewing or publishing content derived from this file for external/client use should validate it
     before sharing — this note itself is a reminder, not a substitute for that review.
 - Every rule here is a population-level average; [individual variation](#plan-philosophy--prioritisation) is

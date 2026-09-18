@@ -13,26 +13,26 @@ Tick a box once a feature meets its acceptance criteria below, not when work mer
 
 ### Must Have (MVP)
 
-- [ ] Persistent State Model
-- [ ] Safety Guardrails
-- [ ] Runner Profile Management
-- [ ] Garmin Connection & Auth Handling
-- [ ] Garmin Data Retrieval
-- [ ] Baseline Assessment
-- [ ] Initial Marathon Plan Generation
-- [ ] Running Session Type Library
-- [ ] Weekly Plan Generation
-- [ ] Mobility Planning
-- [ ] Strength Training Integration
-- [ ] Rest & Recovery Scheduling
-- [ ] Post-Run Check-in
-- [ ] Weekly Wellbeing Check-in
-- [ ] Evidence Conflict Resolution
-- [ ] Adaptive Replanning
-- [ ] Weekly Review Generation
-- [ ] Completion-Readiness Assessment
-- [ ] Decision Traceability & Explanation Log
-- [ ] Manual Data Entry & Correction
+- [x] Persistent State Model
+- [x] Safety Guardrails
+- [x] Runner Profile Management
+- [x] Garmin Connection & Auth Handling
+- [x] Garmin Data Retrieval
+- [x] Baseline Assessment
+- [x] Initial Marathon Plan Generation
+- [x] Running Session Type Library
+- [x] Weekly Plan Generation
+- [x] Mobility Planning
+- [x] Strength Training Integration
+- [x] Rest & Recovery Scheduling
+- [x] Post-Run Check-in
+- [x] Weekly Wellbeing Check-in
+- [x] Evidence Conflict Resolution
+- [x] Adaptive Replanning
+- [x] Weekly Review Generation
+- [x] Completion-Readiness Assessment
+- [x] Decision Traceability & Explanation Log
+- [x] Manual Data Entry & Correction
 
 ### Should Have
 

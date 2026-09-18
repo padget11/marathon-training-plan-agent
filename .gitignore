@@ -1,0 +1,6 @@
+# Personal training/health data — never committed
+.claude/skills/marathon-readiness-coach/state/
+
+# Python
+__pycache__/
+*.pyc
